@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "Blissey_01.png",
+	"frame": {"x":1,"y":1,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_02.png",
+	"frame": {"x":1,"y":47,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_03.png",
+	"frame": {"x":1,"y":93,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_04.png",
+	"frame": {"x":1,"y":139,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_05.png",
+	"frame": {"x":1,"y":185,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_06.png",
+	"frame": {"x":1,"y":231,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_07.png",
+	"frame": {"x":1,"y":277,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_08.png",
+	"frame": {"x":1,"y":323,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_09.png",
+	"frame": {"x":1,"y":277,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_10.png",
+	"frame": {"x":1,"y":369,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_11.png",
+	"frame": {"x":1,"y":415,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+},
+{
+	"filename": "Blissey_12.png",
+	"frame": {"x":1,"y":461,"w":47,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":44},
+	"sourceSize": {"w":47,"h":44}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Blissey.png",
+	"format": "RGBA8888",
+	"size": {"w":49,"h":506},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e877f519302d9ed3ba7f9d2dbc6fcef9:61a0aa3bb64d7ab8eb382b75781d59be:bac3a81f077c0cb930b3ce843ed7fb24$"
+}
+}
